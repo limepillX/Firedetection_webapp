@@ -1,0 +1,52 @@
+Initial commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .idea/.gitignore
+#	new file:   .idea/ISS.iml
+#	new file:   .idea/inspectionProfiles/profiles_settings.xml
+#	new file:   .idea/misc.xml
+#	new file:   .idea/modules.xml
+#	new file:   iss_site/db.sqlite3
+#	new file:   iss_site/iss_site/__init__.py
+#	new file:   iss_site/iss_site/asgi.py
+#	new file:   iss_site/iss_site/settings.py
+#	new file:   iss_site/iss_site/urls.py
+#	new file:   iss_site/iss_site/wsgi.py
+#	new file:   iss_site/main/__init__.py
+#	new file:   iss_site/main/admin.py
+#	new file:   iss_site/main/apps.py
+#	new file:   iss_site/main/forms.py
+#	new file:   iss_site/main/migrations/0001_initial.py
+#	new file:   iss_site/main/migrations/0002_camerastatus_alter_user_telegram.py
+#	new file:   iss_site/main/migrations/__init__.py
+#	new file:   iss_site/main/models.py
+#	new file:   iss_site/main/models/cascade_1.xml
+#	new file:   iss_site/main/serializers.py
+#	new file:   iss_site/main/static/ISS.png
+#	new file:   iss_site/main/static/UniSans.ttf
+#	new file:   iss_site/main/telegram_photos/alert-1663920446.4557345.png
+#	new file:   iss_site/main/telegram_photos/alert-1663920592.1579077.png
+#	new file:   iss_site/main/telegram_photos/alert-1663921853.8046641.png
+#	new file:   iss_site/main/telegram_photos/alert-1663922212.8905528.png
+#	new file:   iss_site/main/telegram_photos/alert-1663922232.0609775.png
+#	new file:   iss_site/main/telegram_photos/alert-1663922371.1051478.png
+#	new file:   iss_site/main/telegram_photos/alert-1663922521.165758.png
+#	new file:   iss_site/main/telegram_photos/alert-1663923030.2503119.png
+#	new file:   iss_site/main/telegram_photos/alert-1663923103.5105965.png
+#	new file:   iss_site/main/telegram_photos/alert-1663923335.3708892.png
+#	new file:   iss_site/main/templates/UniSans.ttf
+#	new file:   iss_site/main/templates/cam.html
+#	new file:   iss_site/main/templates/camera.html
+#	new file:   iss_site/main/templates/login.html
+#	new file:   iss_site/main/templates/settings.html
+#	new file:   iss_site/main/tests.py
+#	new file:   iss_site/main/urls.py
+#	new file:   iss_site/main/views.py
+#	new file:   iss_site/manage.py
+#
