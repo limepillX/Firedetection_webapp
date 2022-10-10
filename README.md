@@ -8,6 +8,7 @@ The project took 2nd place among 11 teams.
 - Search for fire on the camera
 - Movement detection
 - Telegram bot that sends message and image with detected fire
+- E-mail notification on login
 - Website that shows camera stream and status
 
 <img src="https://user-images.githubusercontent.com/59223504/194861741-13af2096-eb3d-4503-95a6-fd8e5cac6f69.png" alt="drawing" style="width:600px;"/>
