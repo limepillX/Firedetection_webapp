@@ -1,6 +1,6 @@
 # OpenCV_Firedetection
 The project was developed for the IBA and BSUIR hackathon on the topic of digital twins.
-The theme of the project is the monitoring of complex technological objects based on video surveillancen.
+The theme of the project is the monitoring of complex technological objects based on video surveillance.
 The project took 2nd place among 11 teams.
 
 ## Features
